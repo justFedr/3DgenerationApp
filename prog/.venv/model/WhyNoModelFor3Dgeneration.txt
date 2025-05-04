@@ -1,0 +1,4 @@
+Github not allow me to upload files that weight more than 25 Mb :(
+i import 3d model from this folder to run local
+
+P.S. this model weghts about 1,7 Gb (Model Vfusion3d from jadechoghari https://huggingface.co/jadechoghari/vfusion3d), and because it's not commercial app i dont violate rights.
