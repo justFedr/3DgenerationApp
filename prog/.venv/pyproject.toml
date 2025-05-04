@@ -1,0 +1,18 @@
+[project]
+name = "3d generation"
+version = "0.1.0"
+description = ""
+requires-python = ">=3.9"
+authors = [
+    { name = "Belonogov Fedor"}
+]
+dependencies = [
+  "flet"
+]
+
+[tool.flet]
+product = "3d generation App"
+company = "justMasterskaya"
+
+[tool.flet.app]
+path = "src"
